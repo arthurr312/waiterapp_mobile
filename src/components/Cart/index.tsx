@@ -73,7 +73,7 @@ export function Cart({
                             <ProductContainer>
                                 <Image
                                     source={{
-                                        uri: `http://192.168.0.107:3001/uploads/${cartItem.product.imagePath}`,
+                                        uri: `http://192.168.18.14:3001/uploads/${cartItem.product.imagePath}`,
                                     }}
                                 />
                                 <QuantityContainer>
