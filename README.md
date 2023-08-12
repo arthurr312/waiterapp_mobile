@@ -24,7 +24,8 @@
 
 -   Listagem dos produtos disponíveis no cardápio;
 -   Possibilidade de filtragem dos produtos por categoria;
--   Opção de cancelar produto.
+-   Realizar pedido;
+-   Opção de cancelar pedido.
 
 ## 🎨 Telas da aplicação
 
